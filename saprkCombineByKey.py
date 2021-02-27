@@ -1,4 +1,4 @@
-from pyspark import SparkConf, SparkContext
+from awsS3DataCrawlerSparkPython_v3 import SparkConf, SparkContext
 
 ##############################################################################
 ########################Spark Context Create##################################

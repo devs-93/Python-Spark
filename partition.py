@@ -1,5 +1,5 @@
-from pyspark import SparkConf, SparkContext
-from pyspark.sql import SparkSession
+from awsS3DataCrawlerSparkPython_v3 import SparkConf, SparkContext
+from awsS3DataCrawlerSparkPython_v3.sql import SparkSession
 ##############################################################################
 # ########################Spark Context Create##################################
 # ################# #############################################################
